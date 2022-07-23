@@ -1,1 +1,2 @@
- 1 Print("Text")
+2 Print("")
+1 Print("Text")
